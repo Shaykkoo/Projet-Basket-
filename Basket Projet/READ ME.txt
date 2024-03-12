@@ -1,0 +1,11 @@
+Compte Joueur : 
+ID - Paul
+Password - 123
+
+Compte Coach :
+ID - Coach
+Password - 123
+
+Compte Administrateur : 
+ID - admin
+Password - admin
